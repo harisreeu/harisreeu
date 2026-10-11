@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on a paper on emotion classificaiton using Naive Bayes and Logistic Regression
+- I'm a senior currently researching machine learning models for emotion classification and exploring how AI can analyze large amounts of text data to identify patterns in human emotions.
